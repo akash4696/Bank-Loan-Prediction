@@ -25,7 +25,7 @@ Loan approval is a very important process for banking organizations. The system 
 
 ### results
 
-Best fit was logistic regression with 83% test accuracy and 88% F1 score.
+Best fit was Random Forest with 83% test accuracy and 88% F1 score.
 
 
 
